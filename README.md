@@ -6,7 +6,7 @@ Submitted by: **Prashant Panta**
 
 This web app: displays an interactive flashcard learning experience that shows randomized cards from a predefined set. Each flashcard contains a trivia question, and clicking flips the card to reveal the answer. The app helps users study concepts or facts in a dynamic and engaging way.
 
-Time spent: 4 hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
